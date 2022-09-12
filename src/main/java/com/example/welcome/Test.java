@@ -9,7 +9,7 @@ public class Test {
 	@RequestMapping("/welcome")
 	@ResponseBody
 	public String welcome() {
-		return "welcome to new world hari";
+		return "welcome to new world hari and malli";
 		
 	}
 }
